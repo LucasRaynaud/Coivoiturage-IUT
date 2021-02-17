@@ -1,8 +1,5 @@
-Structure de base pour l'application covoiturage de l'IUT du Limousin en PHP <br />
-<br />
+<h1>Covoiturage IUT</h1>
 
-Le fichier config.inc.php contient les paramètres pour la base MySQL <br /> </br>
-Vous devez compléter ce travail pour obtenir les écrans demandés.  <br />
-Je souhaite un code bien documenté et clair<br />
-Merci de respecter la date limte de remise du travail !!!! <br /> <br />
-<b> ⊂(◉‿◉)つ <b> <br />
+**Enoncé**
+
+Mini-projet réalisé durant le module M3104 de seconde année de DUT INFO ayant pour but de réaliser un site en Php de covoiturage avec appel à une base de donnée.
